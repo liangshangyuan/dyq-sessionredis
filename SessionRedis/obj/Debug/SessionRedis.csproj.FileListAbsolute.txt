@@ -1,0 +1,4 @@
+G:\常用源码\Session\Test\SessionRedis\bin\Debug\SessionRedis.dll
+G:\常用源码\Session\Test\SessionRedis\bin\Debug\SessionRedis.pdb
+G:\常用源码\Session\Test\SessionRedis\obj\Debug\SessionRedis.dll
+G:\常用源码\Session\Test\SessionRedis\obj\Debug\SessionRedis.pdb
